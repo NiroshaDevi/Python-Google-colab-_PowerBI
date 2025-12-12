@@ -10,3 +10,5 @@ Depth of analysis (univariate, bivariate, multivariate) with 10+ visuals using m
 seaborn, and/or plotly.
 ## 4: Documentation, Insights & Presentation
 Well-commented notebook, clear insights, summaries, and clean presentation
+
+[Niro_FINAL_PROJECT_TEMPLATE.ipynb](https://github.com/user-attachments/files/24123397/Niro_FINAL_PROJECT_TEMPLATE.ipynb)
