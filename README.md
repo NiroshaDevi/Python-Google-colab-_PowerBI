@@ -1,4 +1,4 @@
-# Shopping TRend Analysis
+# Shopping Trend Analysis
 
 # Project Rubric
 ## 1: Problem Definition & Dataset Selection
